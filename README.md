@@ -51,9 +51,9 @@
 ###
 
 <br clear="both">
-
-<img src="https://github.com/minminlittleshrimp/minminlittleshrimp/blob/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://github.com/minminlittleshrimp/minminlittleshrimp/blob/output/snake.svg" alt="Snake animation" />
+</div>
 ###
 
 <h6 align="center">Contact info:<br>Email: minmark47@gmail.com<br>Phone: (+84) 038 2424842</h6>
