@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/minminlittleshrimp/minminlittleshrimp/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/minminlittleshrimp/minminlittleshrimp/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
